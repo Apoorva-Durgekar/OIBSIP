@@ -41,9 +41,9 @@ Superstore Sales dataset, sourced from Kaggle.
 *(Fill this in after completing your analysis — 3-4 bullet points summarizing your biggest insights)*
 
 ## Business Recommendations
-1. *(Recommendation 1)*
-2. *(Recommendation 2)*
-3. *(Recommendation 3)*
+1. (Recommendation 1): Double down on Technology, but investigate Office Supplies' underperformance. Technology drives the highest revenue while Office Supplies lags behind. The business should analyze whether Office Supplies is underpriced, under-marketed, or simply lower-value per unit — and consider bundling Office Supplies with high-performing Technology orders to lift their sales
+2. (Recommendation 2):Reduce dependency on Standard Class shipping by promoting faster options strategically. Standard Class dominates order volume, while Same Day shipping is barely used. Since Same Day is the fastest and often the most profitable option, the business could offer a targeted delivery-speed incentive (e.g. reduced fees) to shift a segment of Standard Class customers toward faster tiers, improving customer satisfaction and delivery revenue.
+3. (Recommendation 3):Address the sales concentration risk. Sales are heavily skewed — the median sale (~$54) is far lower than the average (~$230), meaning revenue depends on a small number of large orders. The business should diversify its customer base or introduce mid-tier product bundles to reduce reliance on a handful of big transactions.
 
 ## Author
-*(Your Full Name)*
+Apoorva 

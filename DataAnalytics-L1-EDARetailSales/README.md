@@ -38,7 +38,10 @@ Superstore Sales dataset, sourced from Kaggle.
 6. Run all cells in order
 
 ## Key Findings
-*(Fill this in after completing your analysis — 3-4 bullet points summarizing your biggest insights)*
+- Technology is the top-performing category by revenue, while Office Supplies generates the least — suggesting an opportunity to boost Office Supplies sales through bundling or promotions.
+- Sales are heavily right-skewed: the median order value (~$54) is far lower than the average (~$230), meaning a small number of large orders are driving overall revenue.
+- Standard Class is by far the most-used shipping method, while Same Day shipping is rarely chosen — indicating most customers prioritize cost over speed.
+- The dataset had no missing values except in Postal Code (11 rows), showing overall strong data quality with minimal cleaning required.
 
 ## Business Recommendations
 1. (Recommendation 1): Double down on Technology, but investigate Office Supplies' underperformance. Technology drives the highest revenue while Office Supplies lags behind. The business should analyze whether Office Supplies is underpriced, under-marketed, or simply lower-value per unit — and consider bundling Office Supplies with high-performing Technology orders to lift their sales

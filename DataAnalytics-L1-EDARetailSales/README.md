@@ -38,12 +38,15 @@ Superstore Sales dataset, sourced from Kaggle.
 6. Run all cells in order
 
 ## Key Findings
-*(Fill this in after completing your analysis — 3-4 bullet points summarizing your biggest insights)*
+- Technology is the top-performing category by revenue, while Office Supplies generates the least — suggesting an opportunity to boost Office Supplies sales through bundling or promotions.
+- Sales are heavily right-skewed: the median order value ($54) is far lower than the average ($230), meaning a small number of large orders are driving overall revenue.
+- Standard Class is by far the most-used shipping method, while Same Day shipping is rarely chosen — indicating most customers prioritize cost over speed.
+- The dataset had no missing values except in Postal Code (11 rows), showing overall strong data quality with minimal cleaning required.
 
 ## Business Recommendations
-1. *(Recommendation 1)*
-2. *(Recommendation 2)*
-3. *(Recommendation 3)*
+1. (Recommendation 1): Double down on Technology, but investigate Office Supplies' underperformance. Technology drives the highest revenue while Office Supplies lags behind. The business should analyze whether Office Supplies is underpriced, under-marketed, or simply lower-value per unit — and consider bundling Office Supplies with high-performing Technology orders to lift their sales
+2. (Recommendation 2):Reduce dependency on Standard Class shipping by promoting faster options strategically. Standard Class dominates order volume, while Same Day shipping is barely used. Since Same Day is the fastest and often the most profitable option, the business could offer a targeted delivery-speed incentive (e.g. reduced fees) to shift a segment of Standard Class customers toward faster tiers, improving customer satisfaction and delivery revenue.
+3. (Recommendation 3):Address the sales concentration risk. Sales are heavily skewed — the median sale (~$54) is far lower than the average (~$230), meaning revenue depends on a small number of large orders. The business should diversify its customer base or introduce mid-tier product bundles to reduce reliance on a handful of big transactions.
 
 ## Author
-*(Your Full Name)*
+Apoorva 
